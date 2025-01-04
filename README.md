@@ -6,10 +6,11 @@ Ultimaker 2 Extended + connected to Octopi hardware with USB cable, Cura used to
 2. Start.gcode used ensures bed and extruder temperatures are met before continuing with print
 
 ## Configuration
+```
 Cura profile selected: Ultimaker 2 Extended+
 
 Machine Settings:
-```
+
   x (width)            - 223.0 mm 
 
   y (depth)            - 223.0 mm 
