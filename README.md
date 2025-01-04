@@ -7,6 +7,7 @@ Ultimaker 2 Extended + connected to Octopi hardware with USB cable, Cura used to
 
 ## Configuration
 Cura profile selected: Ultimaker 2 Extended+
+
 Machine Settings:
 ```
   x (width)            - 223.0 mm 
