@@ -1,13 +1,13 @@
 # Ultimaker 2 Extended + 3d printer
 
 ## Setup
-Ultimaker 2 Extended + connected to Octopi hardware with USB cable, Cura used to slice 3d models. A few notes when using this setup where models are sliced with Cura and uploaded to Octopi.
+Ultimaker 2 Extended + connected to Octopi hardware with USB cable, Cura used to slice 3d models. A few notes when using this setup where models are sliced with Cura and uploaded to Octopi. 
 1. Make sure G-code flavor is **Marlin**
 2. Start.gcode used ensures bed and extruder temperatures are met before continuing with print
 
 ## Configuration
 Cura profile selected: Ultimaker 2 Extended+
-Printer Settings:
+Machine Settings:
 ```
   x (width)            - 223.0 mm 
 
