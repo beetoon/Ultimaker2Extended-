@@ -8,7 +8,7 @@ Ultimaker 2 Extended + connected to Octopi hardware with USB cable, Cura used to
 ## Configuration
 Cura profile selected: Ultimaker 2 Extended+
 Printer Settings:
-
+```
   x (width)            - 223.0 mm 
 
   y (depth)            - 223.0 mm 
@@ -21,9 +21,11 @@ Printer Settings:
 
   Heated build volume  - unchecked 
 
-  G-code flavor        - Marlin 
- 
-Start G-code         - start.gcode in this repository
-End G-code           - end.gcode in this repository
+  G-code flavor        - **Marlin**
 
-Extruder 1           - none used
+  Start G-code         - start.gcode in this repository
+
+  End G-code           - end.gcode in this repository
+
+  Extruder 1           - none used
+```
